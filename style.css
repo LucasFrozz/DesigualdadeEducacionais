@@ -1,0 +1,24 @@
+body{
+    background: rgb(4,97,112);
+background: linear-gradient(90deg, rgba(4,97,112,1) 0%, rgba(6,100,106,1) 3%, rgba(8,101,102,1) 16%, rgba(6,89,121,1) 31%, rgba(4,90,97,1) 45%, rgba(2,69,78,1) 72%, rgba(1,78,69,1) 98%)}
+
+main{
+color: aliceblue;
+}
+
+h1{
+    color: aliceblue; font-weight: 900;
+}
+h2{
+    color: aliceblue; font-weight: 900;
+}
+body{
+    text-align: center; font-weight: 500;}
+
+ main{
+    font-weight: 600;
+ }
+
+ img{
+    border-radius: 5%;}
+
